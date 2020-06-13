@@ -1,0 +1,3 @@
+mocks/**/* linguist-vendored
+test/**/* linguist-vendored
+./*.config.js linguist-vendored
