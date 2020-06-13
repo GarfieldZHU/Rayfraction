@@ -6,6 +6,7 @@
 [![https://www.npmjs.com/package/react/v/16.13.1)](https://img.shields.io/badge/react-v16.13.1-61dafb)](https://www.npmjs.com/package/react/v/16.13.1)
 
 
+Welcome to contribute to Rayfraction. Just get started with the steps below.
 
 
 ## Install
