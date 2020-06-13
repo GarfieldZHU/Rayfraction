@@ -1,5 +1,7 @@
 # Rayfraction
 
+[![](https://github.com/GarfieldZHU/Rayfraction/workflows/Rayfraction%20CI/badge.svg)](https://github.com/GarfieldZHU/Rayfraction/actions)
+
 
 Rayfraction is an cross-platform application for playing with ***ray*** in images.
 
