@@ -25,7 +25,7 @@ yarn start-main-dev
 yarn start-renderer-dev
 ```
 
-3, Start to debug as a Web page (for renderer content) on the browser:
+3. Start to debug as a Web page (for renderer content) on the browser:
 ```bash
 yarn start-web-dev
 ```
