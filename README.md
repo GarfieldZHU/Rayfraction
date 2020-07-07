@@ -30,6 +30,29 @@ yarn start-renderer-dev
 yarn start-web-dev
 ```
 
+## Build
+
+- Packaging the Electron application, run the command below:
+```bash
+yarn build
+```
+
+Or the main process and renderer process can be built to separated package:
+```bash
+yarn build-main
+yarn build-renderer
+```
+
+- Packaging the web bundle, run the command below:
+```bash
+yarn build-web
+```
+
+- Generate the installer of the Electron app for all platform (Windows, MacOS, Linux), run the command below:
+```bash
+yarn dist -wml
+```
+
 
 ## Contributing
 
