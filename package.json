@@ -154,7 +154,7 @@
     "webpack-merge": "^4.2.2"
   },
   "dependencies": {
-    "@types/node": "^14.14.17",
+    "@types/node": "^14.14.31",
     "@types/webpack-env": "^1.16.0",
     "antd": "^4.13.0",
     "install": "^0.13.0",
