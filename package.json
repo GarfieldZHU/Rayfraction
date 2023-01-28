@@ -154,9 +154,9 @@
     "webpack-merge": "^4.2.2"
   },
   "dependencies": {
-    "@types/node": "^14.18.27",
+    "@types/node": "^14.18.33",
     "@types/webpack-env": "^1.18.0",
-    "antd": "^4.22.8",
+    "antd": "^4.24.4",
     "install": "^0.13.0",
     "npm": "^7.21.0",
     "ramda": "^0.28.0",
@@ -164,7 +164,7 @@
     "react-dom": "^16.14.0",
     "react-grid-layout": "^0.18.3",
     "react-redux": "^7.2.9",
-    "react-window": "^1.8.7",
+    "react-window": "^1.8.8",
     "redux": "^4.2.0"
   }
 }
