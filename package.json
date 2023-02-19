@@ -165,6 +165,6 @@
     "react-grid-layout": "^0.18.3",
     "react-redux": "^7.2.9",
     "react-window": "^1.8.8",
-    "redux": "^4.2.0"
+    "redux": "^4.2.1"
   }
 }
