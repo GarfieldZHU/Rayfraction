@@ -164,7 +164,7 @@
     "react-dom": "^16.14.0",
     "react-grid-layout": "^0.18.3",
     "react-redux": "^7.2.9",
-    "react-window": "^1.8.10",
+    "react-window": "^1.8.11",
     "redux": "^4.2.1"
   }
 }
