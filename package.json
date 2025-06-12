@@ -156,7 +156,7 @@
   "dependencies": {
     "@types/node": "^14.18.63",
     "@types/webpack-env": "^1.18.7",
-    "antd": "^5.23.4",
+    "antd": "^5.24.4",
     "install": "^0.13.0",
     "npm": "^10.9.2",
     "ramda": "^0.30.1",
